@@ -79,7 +79,6 @@ public class Desemp88
         }
 
         c.setCursor (linea + 1, 10);
-       // c.println ();
         c.println ("Hay " + contador + " alumnos con nota MUY BUENA");
     }
 
